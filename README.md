@@ -1,8 +1,9 @@
 requirements:
 
-`node, docker and nginx`
+node, docker and nginx
 
 using the API:
+
 `$ cd null-pagamentos`
 
 `$ chmod + x deploy.sh`
